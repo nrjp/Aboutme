@@ -26,9 +26,12 @@
 
 <br />
 <br />
+<br />
+<br />
 
 ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrjp&show_icons=true&show_icons=true&theme=radical)
 
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrjp&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
