@@ -1,12 +1,12 @@
 
-### Hi! I'm Niraj
+### Hi,  I'm Niraj
 
-## I am Back-End Devloper !
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Python+Developer!)](https://git.io/typing-svg)
 
-- I'm currently working as Product Engineer !
-- I'm curreently learning Front-End Development.
-- I'm Also interest in learning Blockchain and Dev-Ops.
-- Also constanstly working on creating some interesting Application. 
+- 🖥️ I'm currently working as a Product Engineer.
+- ✍️  I'm currently learning Front-End Development.
+- 👨‍💻 I'm also interested in learning about blockchain and DevOps.
+- 🧑‍💻 I'm constantly working on creating some interesting applications. 
 
 <br/>
 
@@ -26,3 +26,9 @@
 
 <br />
 <br />
+
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrjp&show_icons=true)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrjp&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
