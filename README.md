@@ -6,7 +6,7 @@
 - 🖥️ I'm currently working as a Product Engineer.
 - ✍️  I'm currently learning Front-End Development.
 - 👨‍💻 I'm also interested in learning about blockchain and DevOps.
-- 🧑‍💻 I'm constantly working on creating some interesting applications. 
+- :bulb: I'm constantly working on creating some interesting applications. 
 
 <br/>
 
