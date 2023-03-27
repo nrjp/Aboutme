@@ -29,9 +29,10 @@
 <br />
 <br />
 
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrjp&show_icons=true&show_icons=true&theme=radical)
+[![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrjp)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrjp&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nrjp&hide_progress=true)](https://github.com/nrjp/github-readme-stats)
+ -->
